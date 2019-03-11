@@ -1,0 +1,26 @@
+UNIT TestCases for State Machine:
+
+1) Input: Choose Operation:1
+   Output: Addition screen should come and ask for numbers to add then again menu comes to choose operation.
+   Input: Choose Operation:3
+   Output: Multiplication screen should come and ask for numbers to multiply then again menu comes to choose operation. 
+   Input: Choose Operation:0
+   Output: Exit from Program
+           
+2) Input: Choose Operation:2
+   Output: Substraction screen should come and ask for numbers to substarct then again menu comes to choose operation.
+   Input: Choose Operation:0
+   Output: Exit from Program
+
+3) Input: Choose Operation:3
+   Output: Multiplication screen should come and ask for numbers to multiply then again menu comes to choose operation.
+   Input: Choose Operation:0
+   Output: Exit from Program
+
+4) Input: Choose Operation:0
+   Output: Exit from Program
+
+5) Input: Choose Operation: 5
+   Output: Enter Valid Operation
+   Input: Choose Operation:0
+   Output: Exit from Program
